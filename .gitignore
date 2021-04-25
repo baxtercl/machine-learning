@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Propio
+.DS_Store
+.idea/
+.gitignore
